@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Planetarium</string>
+    <string name="b_m_birla_planetarium">B. M. BIRLA PLANETARIUM</string>
+    <string name="description1">Established in 1963, the planetarium regularly holds sky-shows to dispel the heavenly myths,
+        propagate the basic concepts of astronomy and also train the amateurs to appreciate the grandeur of the night sky.
+        The topics include evolution of earth, mysteries of cosmos, exploration of Mars and other planets.</string>
+    <string name="description2">Interactive sessions are held following the sky-shows.
+    A special live session has been designed and being regularly presented to higher classes to supplement their science syllabi.</string>
+    <string name="description3">The planetarium coordinates the activities of Amateur Astronomers Association which include
+        telescope fabrication, astro-photography and organising evening sky-watch sessions.</string>
+    <string name="address">96, Jawaharlal Nehru Road, Adjacent To St Paul\'s Cathedral, Kolkata, West Bengal 700071</string>
+    <string name="timings1">English: 1:30 PM and 6:30 PM</string>
+    <string name="timings2">Hindi: 12:30 PM, 2:30 PM and 4:30 PM</string>
+    <string name="timings3">Bengali: 3:30 PM and 5:30 PM</string>
+    <string name="timings4">In addition to these, extra shows are organized on sundays and other holidays at 10:30 AM (Hindi) and 11:30 AM (Bengali).</string>
+    <string name="contact">Contact</string>
+    <string name="phone">Phone: +91–033–2223–6610</string>
+    <string name="email">Email: planet@bisr.res.in</string>
+    <string name="web">Institute website: www.bisr.res.in</string>
+    <string name="kolkata_west_bengal_india">Kolkata, West Bengal, India</string>
+    <string name="objective">Objective</string>
+    <string name="show_timings">Show Timings</string>
+    <string name="address_header">Address</string>
+    <string name="keeplookingup">#KeepLookingUp</string>
+    <string name="birla_planetarium_caption">Birla_Planetarium</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_one">26sp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="text_size_normal">18sp</dimen>
+    <dimen name="image_adjust">230dp</dimen>
+</resources>

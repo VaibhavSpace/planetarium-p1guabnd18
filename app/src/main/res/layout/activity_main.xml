@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:layout_marginTop="@dimen/margin"
+            android:fontFamily="@font/ubuntu_bold"
+            android:text="@string/b_m_birla_planetarium"
+            android:textSize="@dimen/header_one" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/margin_half"
+            android:fontFamily="@font/ubuntu_light"
+            android:text="@string/kolkata_west_bengal_india"
+            android:textSize="@dimen/text_size_normal" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_adjust"
+            android:layout_gravity="center"
+            android:contentDescription="@string/birla_planetarium_caption"
+            android:src="@drawable/planetarium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:layout_marginTop="@dimen/margin_half"
+            android:fontFamily="@font/ubuntu_bold"
+            android:text="@string/objective"
+            android:textSize="@dimen/header_one" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:text="@string/description1"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:text="@string/description2"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:text="@string/description3"
+            android:textSize="@dimen/text_size_normal" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:fontFamily="@font/ubuntu_bold"
+            android:text="@string/show_timings"
+            android:textSize="@dimen/header_one" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:gravity="center"
+            android:text="@string/timings1"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:gravity="center"
+            android:text="@string/timings2"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:gravity="center"
+            android:text="@string/timings3"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:text="@string/timings4"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_bold"
+            android:text="@string/address_header"
+            android:textSize="@dimen/header_one" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:text="@string/address"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_bold"
+            android:text="@string/contact"
+            android:textSize="@dimen/header_one" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:gravity="center"
+            android:text="@string/phone"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:gravity="center"
+            android:text="@string/email"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_light"
+            android:gravity="center"
+            android:text="@string/web"
+            android:textSize="@dimen/text_size_normal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginEnd="@dimen/margin"
+            android:layout_marginStart="@dimen/margin"
+            android:fontFamily="@font/ubuntu_regular"
+            android:text="@string/keeplookingup"
+            android:textSize="@dimen/header_one" />
+
+    </LinearLayout>
+
+</ScrollView>
